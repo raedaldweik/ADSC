@@ -1,0 +1,21 @@
+VIK Revenue Forecast
+  Interactivity for this object is limited for the following reasons:
+    * Forecast plots with underlying factors are not supported.
+  These reasons might only be a problem because of these data complexities:
+    * This object type requires an advanced query.
+
+Ticket Revenue Forecast
+  Interactivity for this object is limited for the following reasons:
+    * Forecast plots with underlying factors are not supported.
+  These reasons might only be a problem because of these data complexities:
+    * This object type requires an advanced query.
+
+Cash Revenue Forecast
+  Interactivity for this object is limited for the following reasons:
+    * Forecast plots with underlying factors are not supported.
+  These reasons might only be a problem because of these data complexities:
+    * This object type requires an advanced query.
+
+Automated explanation - Average Spend (USD) 1 (1)
+  Interactivity for this object is limited for the following reasons:
+    * Actions for composite objects are not supported.

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metadataSupplement>
+    <tables>
+        <table dataLocale="en_US" dataSources="ds560" resourceIdentifier="'cas-shared-default','CASUSER(raldweik@uwo.ca)','ATTENDEES DATA','en_US'" tableModifiedTimeStamp="2024-10-14T12:35:44.643Z">
+            <columns>
+                <column dataType="string" label="Attendee ID" xref="Attendee ID"/>
+                <column dataType="string" label="Event ID" xref="Event ID"/>
+                <column dataType="string" label="Event Attended" xref="Event Attended"/>
+                <column dataType="string" label="Home City" xref="Home City"/>
+                <column dataType="double" format="BEST12." label="Age" xref="Age"/>
+                <column dataType="string" label="Gender" xref="Gender"/>
+                <column dataType="string" label="Nationality" xref="Nationality"/>
+                <column dataType="double" format="BEST12." label="Stay Duration" xref="Stay Duration"/>
+                <column dataType="double" format="BEST12." label="Party Size Travelled With" xref="Party Size Travelled With"/>
+                <column dataType="double" format="BEST12." label="Expected Spend" xref="Expected Spend"/>
+                <column dataType="string" label="Target" xref="Target"/>
+            </columns>
+        </table>
+        <table dataLocale="en_US" dataSources="ds573" resourceIdentifier="'cas-shared-default','CASUSER(raldweik@uwo.ca)','EVENTS','en_US'" tableModifiedTimeStamp="2024-10-14T12:35:38.089Z">
+            <columns>
+                <column dataType="string" label="Event Name" xref="Event Name"/>
+                <column dataType="double" format="BEST12." label="Approved Budget" xref="Approved Budget"/>
+                <column dataType="double" format="BEST12." label="Total Expenses" xref="Total Expenses"/>
+                <column dataType="double" format="BEST12." label="Cash Revenue" xref="Cash Revenue"/>
+                <column dataType="double" format="BEST12." label="Ticket Revenue" xref="Ticket Revenue"/>
+                <column dataType="double" format="BEST12." label="VIK Revenue" xref="VIK Revenue"/>
+                <column dataType="double" format="BEST12." label="Year" xref="Year"/>
+                <column dataType="string" label="Event Date" xref="Event Date"/>
+                <column dataType="double" format="BEST12." label="Profit" xref="Profit"/>
+                <column dataType="string" label="Event ID" xref="Event ID"/>
+                <column dataType="double" format="BEST12." label="Event Attendance" xref="Event Attendance"/>
+                <column dataType="string" label="Event Date_Datetime" xref="Event Date_Datetime"/>
+                <column dataType="double" format="BEST12." label="Year_Datetime" xref="Year_Datetime"/>
+            </columns>
+        </table>
+        <table dataLocale="en_US" dataSources="ds1803" resourceIdentifier="'cas-shared-default','CASUSER(raldweik@uwo.ca)','ADSC_2','en_US'" tableModifiedTimeStamp="2024-10-14T12:35:44.732Z">
+            <columns>
+                <column dataType="string" label="Event_Name" xref="Event_Name"/>
+                <column dataType="double" format="BEST12." label="Approved_Budget" xref="Approved_Budget"/>
+                <column dataType="double" format="BEST12." label="Total_Expenses" xref="Total_Expenses"/>
+                <column dataType="double" format="BEST12." label="Cash_Revenue" xref="Cash_Revenue"/>
+                <column dataType="double" format="BEST12." label="Ticket_Revenue" xref="Ticket_Revenue"/>
+                <column dataType="double" format="BEST12." label="VIK_Revenue" xref="VIK_Revenue"/>
+                <column dataType="double" format="BEST12." label="Year" xref="Year"/>
+                <column dataType="date" format="DDMMYY8" label="Event_Date" xref="Event_Date"/>
+                <column dataType="double" format="BEST12." label="Profit" xref="Profit"/>
+                <column dataType="string" label="Event_ID" xref="Event_ID"/>
+                <column dataType="double" format="BEST12." label="Event_Attendance" xref="Event_Attendance"/>
+                <column dataType="date" format="MONYY7" label="Event_Date_Datetime" xref="Event_Date_Datetime"/>
+                <column dataType="double" format="BEST12." label="Year_Datetime" xref="Year_Datetime"/>
+            </columns>
+        </table>
+        <table dataLocale="en_US" dataSources="ds4110" resourceIdentifier="'cas-shared-default','CASUSER(raldweik@uwo.ca)','UAE_PRO_LEAGUE_PLAYER_DATASET_UAE_HIGHEST_PAID','en_US'" tableModifiedTimeStamp="2024-10-14T12:38:45.704Z">
+            <columns>
+                <column dataType="string" label="Team Name" xref="Team Name"/>
+                <column dataType="string" label="Player Name" xref="Player Name"/>
+                <column dataType="string" label="Position" xref="Position"/>
+                <column dataType="string" label="Nation" xref="Nation"/>
+                <column dataType="double" format="BEST12." label="Age" xref="Age"/>
+                <column dataType="string" label="Level" xref="Level"/>
+                <column dataType="string" label="Sport" xref="Sport"/>
+                <column dataType="string" label="Injury Status" xref="Injury Status"/>
+                <column dataType="string" label="Injury Occurred" xref="Injury Occurred"/>
+                <column dataType="double" format="BEST12." label="Injury Date" xref="Injury Date"/>
+                <column dataType="double" format="BEST12." label="Injury Projected Duration" xref="Injury Projected Duration"/>
+                <column dataType="double" format="BEST12." label="Value" xref="Value"/>
+                <column dataType="string" label="Club Last Pitch Restoration - Stadium" xref="Club Last Pitch Restoration - Stadium"/>
+                <column dataType="string" label="Club Last Pitch Restoration - Training" xref="Club Last Pitch Restoration - Training"/>
+                <column dataType="string" label="Season" xref="Season"/>
+                <column dataType="double" format="BEST12." label="Projected Value 1 Year" xref="Projected Value 1 Year"/>
+                <column dataType="double" format="BEST12." label="Projected Value 2 Year" xref="Projected Value 2 Year"/>
+                <column dataType="double" format="BEST12." label="Projected Value 3 Year" xref="Projected Value 3 Year"/>
+                <column dataType="double" format="BEST12." label="Salary" xref="Salary"/>
+                <column dataType="double" format="BEST12." label="Projected Salary 1 Year" xref="Projected Salary 1 Year"/>
+                <column dataType="double" format="BEST12." label="Projected Salary 2 Year" xref="Projected Salary 2 Year"/>
+                <column dataType="double" format="BEST12." label="Projected Salary 3 Year" xref="Projected Salary 3 Year"/>
+            </columns>
+        </table>
+        <table dataLocale="en_US" dataSources="ds4727" resourceIdentifier="'cas-shared-default','CASUSER(raldweik@uwo.ca)','UAE_PRO_LEAGUE_PLAYER_DATASET_AGE_ADJUSTED (1).XLSX_PITCH RESTORATION','en_US'" tableModifiedTimeStamp="2024-10-14T12:48:53.152Z">
+            <columns>
+                <column dataType="string" label="Team Name" xref="Team Name"/>
+                <column dataType="string" label="Club Last Pitch Restoration - Stadium" xref="Club Last Pitch Restoration - Stadium"/>
+                <column dataType="string" label="Club Last Pitch Restoration - Training" xref="Club Last Pitch Restoration - Training"/>
+            </columns>
+        </table>
+        <table dataLocale="en_US" dataSources="ds4853" resourceIdentifier="'cas-shared-default','CASUSER(raldweik@uwo.ca)','UAE_PRO_LEAGUE_PLAYER_DATASET_AGE_ADJUSTED','en_US'" tableModifiedTimeStamp="2024-10-14T12:35:38.087Z">
+            <columns>
+                <column dataType="string" label="Team Name" xref="Team Name"/>
+                <column dataType="string" label="Player Name" xref="Player Name"/>
+                <column dataType="string" label="Position" xref="Position"/>
+                <column dataType="string" label="Nation" xref="Nation"/>
+                <column dataType="double" format="BEST12." label="Age" xref="Age"/>
+                <column dataType="string" label="Level" xref="Level"/>
+                <column dataType="string" label="Sport" xref="Sport"/>
+                <column dataType="string" label="Injury Status" xref="Injury Status"/>
+                <column dataType="string" label="Injury Occurred" xref="Injury Occurred"/>
+                <column dataType="double" format="BEST12." label="Injury Date" xref="Injury Date"/>
+                <column dataType="double" format="BEST12." label="Injury Projected Duration" xref="Injury Projected Duration"/>
+                <column dataType="double" format="BEST12." label="Value" xref="Value"/>
+                <column dataType="string" label="Club Last Pitch Restoration - Stadium" xref="Club Last Pitch Restoration - Stadium"/>
+                <column dataType="string" label="Club Last Pitch Restoration - Training" xref="Club Last Pitch Restoration - Training"/>
+                <column dataType="string" label="Season" xref="Season"/>
+                <column dataType="double" format="BEST12." label="Projected Value 1 Year" xref="Projected Value 1 Year"/>
+                <column dataType="double" format="BEST12." label="Projected Value 2 Year" xref="Projected Value 2 Year"/>
+                <column dataType="double" format="BEST12." label="Projected Value 3 Year" xref="Projected Value 3 Year"/>
+                <column dataType="double" format="BEST12." label="Salary" xref="Salary"/>
+                <column dataType="double" format="BEST12." label="Projected Salary 1 Year" xref="Projected Salary 1 Year"/>
+                <column dataType="double" format="BEST12." label="Projected Salary 2 Year" xref="Projected Salary 2 Year"/>
+                <column dataType="double" format="BEST12." label="Projected Salary 3 Year" xref="Projected Salary 3 Year"/>
+            </columns>
+        </table>
+    </tables>
+    <version>2</version>
+</metadataSupplement>
